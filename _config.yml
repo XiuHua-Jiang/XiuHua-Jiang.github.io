@@ -1,2 +1,2 @@
 # Handling Reading
-include             : ["AdminLTE-v2/dist/css/skins/_all-skins.min.css", "AdminLTE-v2/dist/css/skins/_all-skins.css"]
+include             : ["_all-skins.min.css", "_all-skins.css"]
